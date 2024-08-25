@@ -1,0 +1,2 @@
+Prefix plugins/Delve/example/
+Plugin Delve inputfile S12_R1.fastq outputfile output.txt
